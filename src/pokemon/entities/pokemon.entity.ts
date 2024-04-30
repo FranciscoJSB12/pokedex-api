@@ -15,7 +15,7 @@ export class Pokemon extends Document {
         unique: true,
         index: true
     })
-    nroPokemon: number;
+    nro: number;
 }
 
 /*Exportamos un schema, es el que le dice a la base 
