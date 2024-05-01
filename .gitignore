@@ -1,5 +1,6 @@
 # evironment variables
 .env
+.env.prod
 
 # mongo-docker
 /mongo
