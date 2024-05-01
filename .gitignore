@@ -1,4 +1,7 @@
-#mongo-docker
+# evironment variables
+.env
+
+# mongo-docker
 /mongo
 
 # compiled output
